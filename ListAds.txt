@@ -27,7 +27,7 @@ udcm.yahoo.com
 ck.ads.oppomobile.com
 data.ads.oppomobile.com
 click.oneplus.cn
-ads-api.twitter.com
+# ads-api.twitter.com
 ads-sg.tiktok.com
 api-adservices.apple.com
 books-analytics-events.apple.com
@@ -994,3 +994,4 @@ za.agiay.vn
 za.baomoi.com
 zigzag.vn
 ztrck.me
+
